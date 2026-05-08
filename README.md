@@ -4,7 +4,7 @@ Auxiliary files for the paper *"Conditions for boundedness from below of a Δ(54
 
 - The Mathematica notebook containing the code is provided in ["Polytope.nb"](https://github.com/jurciukonis/4D-polytope/blob/main/polytope.nb).
 
-- The edges, faces, and facets of the four-dimensional polytopede are given in ["polytope.pdf"](https://github.com/jurciukonis/4D-polytope/blob/main/polytope.pdf).
+- The edges, faces, and facets of the four-dimensional polytope are given in ["polytope.pdf"](https://github.com/jurciukonis/4D-polytope/blob/main/polytope.pdf).
 
 **If you use materials from the repository for a publication, please cite following reference:**
 
