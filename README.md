@@ -2,7 +2,7 @@
 
 Auxiliary files for the paper *"Conditions for boundedness from below of a Δ(54)-symmetric three-Higgs-doublet model"* in which we determine the vertices, edges, and faces of the four-dimensional polytope.
 
-- The Mathematica notebook containing the code is provided in ["Polytope.nb"](https://github.com/jurciukonis/4D-polytope/blob/main/polytope.nb).
+- The Mathematica notebook containing the code is provided in ["Polytope.nb"](https://github.com/jurciukonis/4D-polytope/blob/main/Polytope.nb).
 
 - The edges, faces, and facets of the four-dimensional polytope are given in ["polytope.pdf"](https://github.com/jurciukonis/4D-polytope/blob/main/polytope.pdf).
 
